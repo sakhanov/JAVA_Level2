@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="sqlite-jdbc-3.8.11.2">
+    <CLASSES>
+      <root url="jar://D:/jdbc/sqlite-jdbc-3.8.11.2.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../JAVALIB/JBSDKDownloadHelper/lib" />
+      <root url="file://$PROJECT_DIR$/../../javafx-sdk-12.0.1/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/jdbc/sqlite-jdbc-3.8.11.2.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../JAVALIB/JBSDKDownloadHelper/lib" />
+      <root url="file://$PROJECT_DIR$/../../javafx-sdk-12.0.1/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../javafx-sdk-12.0.1/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../JAVALIB/JBSDKDownloadHelper/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../javafx-sdk-12.0.1/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../JAVALIB/JBSDKDownloadHelper/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
